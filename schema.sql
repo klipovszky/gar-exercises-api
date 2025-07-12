@@ -4,7 +4,8 @@ CREATE TABLE exercises (
   name TEXT,
   category_garmin TEXT,
   name_garmin TEXT,
-  found BOOLEAN
+  found BOOLEAN,
+  url TEXT
 );
 
 DROP TABLE IF EXISTS muscle_groups;
