@@ -1,0 +1,286 @@
+NAME,,,DETAILED_INFO,,,,,MUSCLE_GROUPS,,,,,,,,,,,,,,,,,,
+Name,CATEGORY_GARMIN,NAME_GARMIN,FOUND,IMAGE,URL,DIFFICULTY,DESCRIPTION,,ABDUCTORS,ABS,ADDDUCTORS,ADDUCTORS,BICEPS,CALVES,CHEST,FOREARM,GLUTES,HAMSTRINGS,HIPS,LATS,LOWER_BACK,OBLIQUES,QUADS,SHOULDERS,TRAPS,TRICEPS
+Banded Back Extension,BANDED_EXERCISES,BACK_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Banded Calf Raises,BANDED_EXERCISES,CALF_RAISES,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Banded Clam Shells,BANDED_EXERCISES,CLAM_SHELLS,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Banded External Rotation,BANDED_EXERCISES,EXTERNAL_ROTATION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Banded External Rotation at 90-Degree Abduction,BANDED_EXERCISES,EXTERNAL_ROTATION_AT_90_DEGREE_ABDUCTION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Banded Fire Hydrant,BANDED_EXERCISES,FIRE_HYDRANT,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Banded Glute Bridge,BANDED_EXERCISES,GLUTE_BRIDGE,FALSE,,,,,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Banded Hip Extension,BANDED_EXERCISES,HIP_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0
+Banded Internal Rotation,BANDED_EXERCISES,INTERNAL_ROTATION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Banded Lateral Band Walks,BANDED_EXERCISES,LATERAL_BAND_WALKS,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Banded Lateral Raise,BANDED_EXERCISES,LATERAL_RAISE,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Banded Leg Abduction,BANDED_EXERCISES,LEG_ABDUCTION,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Banded Leg Adduction,BANDED_EXERCISES,LEG_ADDUCTION,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banded Leg Extension,BANDED_EXERCISES,LEG_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Banded Lunge,BANDED_EXERCISES,LUNGE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Banded Shoulder Abduction,BANDED_EXERCISES,SHOULDER_ABDUCTION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Banded Shoulder Extension,BANDED_EXERCISES,SHOULDER_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0
+Banded Shoulder External Rotation,BANDED_EXERCISES,SHOULDER_EXTERNAL_ROTATION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Banded Shoulder Flexion to 90-Degrees,BANDED_EXERCISES,SHOULDER_FLEXION_TO_90_DEGREES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Banded Squat,BANDED_EXERCISES,SQUAT,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Banded Wall Crawl with External Rotation,BANDED_EXERCISES,WALL_CRAWL_WITH_EXTERNAL_ROTATION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Donkey Calf Raise,CALF_RAISE,DONKEY_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Seated Calf Raise,CALF_RAISE,SEATED_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Single-leg Bent-knee Calf Raise,CALF_RAISE,SINGLE_LEG_BENT_KNEE_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Single-leg Donkey Calf Raise,CALF_RAISE,SINGLE_LEG_DONKEY_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Single-leg Standing Calf Raise,CALF_RAISE,SINGLE_LEG_STANDING_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Standing Calf Raise,CALF_RAISE,STANDING_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Weighted Donkey Calf Raise,CALF_RAISE,WEIGHTED_DONKEY_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Weighted Seated Calf Raise,CALF_RAISE,WEIGHTED_SEATED_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Weighted Single-leg Bent-knee Calf Raise,CALF_RAISE,WEIGHTED_SINGLE_LEG_BENT_KNEE_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Weighted Single-leg Donkey Calf Raise,CALF_RAISE,WEIGHTED_SINGLE_LEG_DONKEY_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Weighted Standing Calf Raise,CALF_RAISE,WEIGHTED_STANDING_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3-way Calf Raise,CALF_RAISE,_3_WAY_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3-way Single-leg Calf Raise,CALF_RAISE,_3_WAY_SINGLE_LEG_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3-way Weighted Calf Raise,CALF_RAISE,_3_WAY_WEIGHTED_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3-way Weighted Single-leg Calf Raise,CALF_RAISE,_3_WAY_WEIGHTED_SINGLE_LEG_CALF_RAISE,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arm and Leg Extension on Knees,CORE,ARM_AND_LEG_EXTENSION_ON_KNEES,TRUE,,https://connect.garmin.com/modern/exercises/CORE/ARM_AND_LEG_EXTENSION_ON_KNEES,Beginner,This exercise stabilizes and balances the torso while improving mobility in the joints.,0,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0
+Cat Cow,CORE,CAT_COW,TRUE,,https://connect.garmin.com/modern/exercises/CORE/CAT_COW,Beginner,This exercise focuses on how to better connect the breath with the movement of the spine. This movement helps bring the spine back into balance.,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,0
+Knee Folds,CORE,KNEE_FOLDS,TRUE,,https://connect.garmin.com/modern/exercises/CORE/KNEE_FOLDS,Beginner,This exercise helps develop stability in the pelvis by moving the hip joint while holding the lower back and hips in a neutral position.,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Lower Lift,CORE,LOWER_LIFT,TRUE,,https://connect.garmin.com/modern/exercises/CORE/LOWER_LIFT,Intermediate,This exercise challenges the lower abdominals and engages the pelvis. The legs act as weight and can increase the challenge to the abs. This movement also teaches breath control and strengthens the connection between breathing and the abdominals.,0,0,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+Neck Pull,CORE,NECK_PULL,TRUE,,https://connect.garmin.com/modern/exercises/CORE/NECK_PULL,Intermediate,This exercise works the abdominals and stretches the spine and the hamstrings.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rolling,CORE,ROLLING,TRUE,,https://connect.garmin.com/modern/exercises/CORE/ROLLING,Beginner,"This exercise helps teach proper breathing and balance. To benefit from this move, make sure to keep the abdominals engaged throughout the motion.",0,0,1,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0
+Side Bend,CORE,SIDE_BEND,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Single-leg Circles,CORE,SINGLE_LEG_CIRCLES,TRUE,,https://connect.garmin.com/modern/exercises/CORE/SINGLE_LEG_CIRCLES,Beginner,This exercise helps teach you how to hold a neutral pelvis. It also loosens the hip joints.,0,0,1,0,1,0,0,0,0,0,2,1,0,0,1,2,0,0,0
+Single-leg Stretch,CORE,SINGLE_LEG_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/CORE/SINGLE_LEG_STRETCH,Beginner,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0
+Swimming,CORE,SWIMMING,TRUE,,https://connect.garmin.com/modern/exercises/CORE/SWIMMING,Beginner,This exercise focuses on strengthening the core while incorporating oppositional movement of the arms and legs.,0,0,2,0,0,0,0,0,0,1,0,0,1,1,0,2,2,0,0
+Toes to Elbows,CORE,TOES_TO_ELBOWS,FALSE,,,,,0,0,1,0,0,0,0,0,2,0,0,2,0,0,0,1,2,0,0
+Arm Rotations,FLYE,ARM_ROTATIONS,TRUE,,https://connect.garmin.com/modern/exercises/FLYE/ARM_ROTATIONS,Beginner,"This exercise helps improve stability by targeting specific areas of the body, one at time.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+Hug a Tree,FLYE,HUG_A_TREE,TRUE,,https://connect.garmin.com/modern/exercises/FLYE/HUG_A_TREE,Beginner,"This exercise helps improve stability by targeting specific areas of the body, one at time.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
+Clams,HIP_RAISE,CLAMS,TRUE,,https://connect.garmin.com/modern/exercises/HIP_RAISE/CLAMS,Beginner,The side-leg series challenges you to keep a balanced and neutral pelvis while on your side and fighting gravity.,0,1,2,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Clam Bridge,HIP_RAISE,CLAM_BRIDGE,FALSE,,,,,0,1,0,0,0,0,0,0,0,1,0,2,0,0,2,0,0,0,0
+Hip Extension and Cross,HIP_RAISE,HIP_EXTENSION_AND_CROSS,FALSE,,,,,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hip Raise,HIP_RAISE,HIP_RAISE,TRUE,,https://connect.garmin.com/modern/exercises/HIP_RAISE/HIP_RAISE,Beginner,"The hip raise builds strength and stability in the hips. The movement also increases strength in the core, glutes, and hamstrings. This movement is one of the best at building glutes strength, and has multiple variations - including single leg options - that make it one of the most versatile exercises that doesn't require any equipment.",0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0
+Hip Raise with Feet on Swiss Ball,HIP_RAISE,HIP_RAISE_WITH_FEET_ON_SWISS_BALL,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0
+Hip Raise with Head on Bosu® Balance Trainer,HIP_RAISE,HIP_RAISE_WITH_HEAD_ON_BOSU_BALL,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0
+Hip Raise with Head on Swiss Ball,HIP_RAISE,HIP_RAISE_WITH_HEAD_ON_SWISS_BALL,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0
+Hip Raise with Knee Squeeze,HIP_RAISE,HIP_RAISE_WITH_KNEE_SQUEEZE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0
+Incline Rear-leg Extension,HIP_RAISE,INCLINE_REAR_LEG_EXTENSION,FALSE,,,,,0,0,2,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0
+Leg Circles,HIP_RAISE,LEG_CIRCLES,TRUE,,https://connect.garmin.com/modern/exercises/HIP_RAISE/LEG_CIRCLES,Beginner,The side-leg series challenges you to keep a balanced and neutral pelvis while on your side and fighting gravity.,0,1,1,0,0,0,0,0,0,2,0,1,0,2,2,2,0,0,0
+Leg Lift,HIP_RAISE,LEG_LIFT,TRUE,,https://connect.garmin.com/modern/exercises/HIP_RAISE/LEG_LIFT,Beginner,The side-leg series challenges you to keep a balanced and neutral pelvis while on your side and fighting gravity.,0,0,2,0,1,0,0,0,0,1,2,1,0,2,2,2,0,0,0
+Leg Lift in External Rotation,HIP_RAISE,LEG_LIFT_IN_EXTERNAL_ROTATION,TRUE,,https://connect.garmin.com/modern/exercises/HIP_RAISE/LEG_LIFT_IN_EXTERNAL_ROTATION,Beginner,The side-leg series challenges you to keep a balanced and neutral pelvis while on your side and fighting gravity.,0,1,2,0,1,0,0,0,0,1,0,1,0,0,2,0,0,0,0
+Reverse Hip Raise,HIP_RAISE,REVERSE_HIP_RAISE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0
+Single-leg Hip Raise,HIP_RAISE,SINGLE_LEG_HIP_RAISE,TRUE,,https://connect.garmin.com/modern/exercises/HIP_RAISE/SINGLE_LEG_HIP_RAISE,Beginner,"The single-leg hip raise builds strength and stability through the hamstrings and glutes. The movement also improves core strength, balance, and coordination.",0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0
+Band Side-lying Leg Raise,HIP_STABILITY,BAND_SIDE_LYING_LEG_RAISE,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dead Bug,HIP_STABILITY,DEAD_BUG,FALSE,,,,,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,2,1,0,0
+External Hip Raise,HIP_STABILITY,EXTERNAL_HIP_RAISE,TRUE,,https://connect.garmin.com/modern/exercises/HIP_STABILITY/EXTERNAL_HIP_RAISE,Beginner,The external hip raise increases strength and stability in hips and glutes. The exercise also actively engages the core.,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fire Hydrant Kicks,HIP_STABILITY,FIRE_HYDRANT_KICKS,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Inner-thigh Lift,HIP_STABILITY,INNER_THIGH_LIFT,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lateral Walks with Band at Ankles,HIP_STABILITY,LATERAL_WALKS_WITH_BAND_AT_ANKLES,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lying Abduction Stretch,HIP_STABILITY,LYING_ABDUCTION_STRETCH,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pretzel Side Kick,HIP_STABILITY,PRETZEL_SIDE_KICK,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0
+Prone Hip Internal Rotation,HIP_STABILITY,PRONE_HIP_INTERNAL_ROTATION,FALSE,,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Quadruped,HIP_STABILITY,QUADRUPED,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Quadruped Hip Extension,HIP_STABILITY,QUADRUPED_HIP_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Quadruped with Leg Lift,HIP_STABILITY,QUADRUPED_WITH_LEG_LIFT,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Side-lying Leg Raise,HIP_STABILITY,SIDE_LYING_LEG_RAISE,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sliding Hip Adduction,HIP_STABILITY,SLIDING_HIP_ADDUCTION,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standing Adduction,HIP_STABILITY,STANDING_ADDUCTION,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standing Cable Hip Abduction,HIP_STABILITY,STANDING_CABLE_HIP_ABDUCTION,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standing Hip Abduction,HIP_STABILITY,STANDING_HIP_ABDUCTION,FALSE,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standing Rear-leg Raise,HIP_STABILITY,STANDING_REAR_LEG_RAISE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0
+Supine Hip Internal Rotation,HIP_STABILITY,SUPINE_HIP_INTERNAL_ROTATION,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+One-arm Swing,HIP_SWING,ONE_ARM_SWING,TRUE,,https://connect.garmin.com/modern/exercises/HIP_SWING/ONE_ARM_SWING,Beginner,The one-arm swing builds power and strength in the hamstrings and glutes. The exercise improves cardiovascular endurance.,0,0,0,0,0,0,2,0,0,2,2,0,0,0,0,1,1,0,0
+Back Extension with Opposite Arm and Leg Reach,HYPEREXTENSION,BACK_EXTENSION_WITH_OPPOSITE_ARM_AND_LEG_REACH,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Base Rotations,HYPEREXTENSION,BASE_ROTATIONS,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0
+Cobra,HYPEREXTENSION,COBRA,TRUE,,https://connect.garmin.com/modern/exercises/HYPEREXTENSION/COBRA,Beginner,This exercise improves posture and counterbalances the tendency of the torso to curl forward.,0,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,2
+Kneeling Superman,HYPEREXTENSION,KNEELING_SUPERMAN,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Knee Raises,HYPEREXTENSION,KNEE_RAISES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Single-leg Back Extension,HYPEREXTENSION,SINGLE_LEG_BACK_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Spine Extension,HYPEREXTENSION,SPINE_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Static Back Extension,HYPEREXTENSION,STATIC_BACK_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Superman from Floor,HYPEREXTENSION,SUPERMAN_FROM_FLOOR,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Superman on Swiss Ball,HYPEREXTENSION,SUPERMAN_ON_SWISS_BALL,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Swiss Ball Back Extension,HYPEREXTENSION,SWISS_BALL_BACK_EXTENSION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Swiss Ball Hyperextension,HYPEREXTENSION,SWISS_BALL_HYPEREXTENSION,TRUE,,https://connect.garmin.com/modern/exercises/HYPEREXTENSION/SWISS_BALL_HYPEREXTENSION,Intermediate,The Swiss ball hyperextension builds strength in the lower back and glutes. Performing the exercise with a Swiss ball also ensures the core is actively engaged throughout the entire range of motion.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Swiss Ball Opposite Arm and Leg Lift,HYPEREXTENSION,SWISS_BALL_OPPOSITE_ARM_AND_LEG_LIFT,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0
+Arm Circles,LATERAL_RAISE,ARM_CIRCLES,TRUE,,https://connect.garmin.com/modern/exercises/LATERAL_RAISE/ARM_CIRCLES,Beginner,Arm circles are a great dynamic warm-up exercise to help prepare the body for a workout. They also increase multi-planar stability in the core and shoulders.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+Front Raise,LATERAL_RAISE,FRONT_RAISE,FALSE,,,,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,2,0
+Alternating Dumbbell Lunge,LUNGE,ALTERNATING_DUMBBELL_LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/ALTERNATING_DUMBBELL_LUNGE,Intermediate,"The alternating dumbbell lunge is a single-leg strength exercise that targets the quads, hips, hamstrings and core. The alternating structure of the movement improves muscular balance on both sides of the body.",0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Alternating Dumbbell Lunge with Reach,LUNGE,ALTERNATING_DUMBBELL_LUNGE_WITH_REACH,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/ALTERNATING_DUMBBELL_LUNGE_WITH_REACH,Beginner,The alternating dumbbell lunge with reach increases mobility and strength throughout the entire body. This exercise specifically targets the legs while also activating the core and shoulders.,0,0,2,0,0,2,0,0,0,1,2,0,0,0,0,1,2,0,0
+Diagonal Lunge,LUNGE,DIAGONAL_LUNGE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Low Lunge with Isometric Adduction,LUNGE,LOW_LUNGE_WITH_ISOMETRIC_ADDUCTION,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/LOW_LUNGE_WITH_ISOMETRIC_ADDUCTION,Intermediate,The low lunge with isometric adduction strengthens the inner thighs while increasing hip mobility and functionality.,0,0,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Low Side-to-Side Lunge,LUNGE,LOW_SIDE_TO_SIDE_LUNGE,FALSE,,,,,0,2,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Lunge,LUNGE,LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/LUNGE,Advanced,The standard lunge is a foundation bodyweight exercise used to strengthen the muscles of the lower extremities.,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Lunge with Arm Reach,LUNGE,LUNGE_WITH_ARM_REACH,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/LUNGE_WITH_ARM_REACH,Beginner,"This exercise is a body-weight exercise used to increase mobility, flexibility, and strength throughout the hip and leg region.",0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,2,0,0
+Lunge with Diagonal Reach,LUNGE,LUNGE_WITH_DIAGONAL_REACH,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,2,0,0
+Lunge with Side Bend,LUNGE,LUNGE_WITH_SIDE_BEND,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1,0,0,0
+Runner's Lunge to Balance,LUNGE,RUNNERS_LUNGE_TO_BALANCE,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/RUNNERS_LUNGE_TO_BALANCE,Intermediate,"The runner's lunge to balance is a strength and conditioning exercise. It helps improve hip mobility, stability, overall function of the lower body, and emphasizes building strength in the backs of the legs.",0,2,0,0,2,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Shifting Side Lunge,LUNGE,SHIFTING_SIDE_LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/SHIFTING_SIDE_LUNGE,Intermediate,"This dynamic multi-joint exercise targets the lower body, while increasing hip mobility and core stability.",0,2,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Side and Crossover Lunge,LUNGE,SIDE_AND_CROSSOVER_LUNGE,FALSE,,,,,0,2,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Side Lunge,LUNGE,SIDE_LUNGE,FALSE,,,,,0,2,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Side Lunge and Press,LUNGE,SIDE_LUNGE_AND_PRESS,FALSE,,,,,0,2,0,0,2,0,0,0,0,1,2,0,0,0,0,1,1,0,2
+Side Lunge Sweep,LUNGE,SIDE_LUNGE_SWEEP,FALSE,,,,,0,2,0,0,2,0,0,0,0,1,2,2,0,0,0,1,0,0,0
+Side Lunge to Crossover Tap,LUNGE,SIDE_LUNGE_TO_CROSSOVER_TAP,FALSE,,,,,0,2,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Side-to-Side Lunge Chops,LUNGE,SIDE_TO_SIDE_LUNGE_CHOPS,TRUE,,https://connect.garmin.com/modern/exercises/LUNGE/SIDE_TO_SIDE_LUNGE_CHOPS,Beginner,"Side-to-side lunge chops are a total-body exercise that strengthens the inner thighs, quads, hamstrings, and glutes while engaging the core.",0,2,2,0,2,0,0,0,0,1,2,0,0,0,2,1,0,0,0
+Sliding Lateral Lunge,LUNGE,SLIDING_LATERAL_LUNGE,FALSE,,,,,0,2,0,0,2,0,2,0,0,1,2,0,0,0,0,1,0,0,0
+Arch and Curl,MOVE,ARCH_AND_CURL,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/ARCH_AND_CURL,Beginner,,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Arm Stretch,MOVE,ARM_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/ARM_STRETCH,Beginner,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Bridge (with ball),MOVE,BRIDGE_WITH_BALL,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/BRIDGE_WITH_BALL,Beginner,,0,0,1,0,2,0,0,0,0,1,2,0,0,0,0,2,0,0,0
+Eight-point Shoulder Opener,MOVE,EIGHT_POINT_SHOULDER_OPENER,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/EIGHT_POINT_SHOULDER_OPENER,Advanced,"This deep shoulder opener is thought to alleviate shoulder and neck pain. It is also a twist, and so is thought to detoxify the body.",0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,1,2,0
+Forward Fold,MOVE,FORWARD_FOLD,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/FORWARD_FOLD,Beginner,,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1,0,0
+Hamstring Stretch,MOVE,HAMSTRING_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/HAMSTRING_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+Hip Stretch,MOVE,HIP_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/HIP_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Leg Stretch (with Band),MOVE,LEG_STRETCH_WITH_BAND,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/LEG_STRETCH_WITH_BAND,Beginner,,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0
+Leg Stretch with Leg Circles,MOVE,LEG_STRETCH_WITH_LEG_CIRCLES,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/LEG_STRETCH_WITH_LEG_CIRCLES,Beginner,,0,0,2,0,1,0,2,0,0,0,1,1,0,0,2,0,0,0,0
+Mermaid Stretch,MOVE,MERMAID_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/MERMAID_STRETCH,Beginner,This backbending hip and shoulder opener is an intermediate version of the Full King Pigeon pose. The English name stems from the resemblance of the back leg to a mermaid's tail.,0,0,2,0,0,0,0,1,0,0,1,1,0,2,1,1,1,0,0
+Piriformis Stretch,MOVE,PIRIFORMIS_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/PIRIFORMIS_STRETCH,Beginner,,0,1,2,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0
+Psoas Lunge Stretch,MOVE,PSOAS_LUNGE_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/PSOAS_LUNGE_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Roll Down,MOVE,ROLL_DOWN,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/ROLL_DOWN,Beginner,,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0
+Saw,MOVE,SAW,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/SAW,Beginner,,0,0,2,0,0,0,0,0,0,0,1,2,0,2,1,0,0,0,0
+Seated Hip Stretch,MOVE,SEATED_HIP_STRETCHUP,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/SEATED_HIP_STRETCHUP,Beginner,,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Seated Twist,MOVE,SEATED_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/SEATED_TWIST,Beginner,,0,0,0,0,1,0,0,2,0,0,0,1,0,2,1,0,2,0,0
+Spinal Twist,MOVE,SPINAL_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/SPINAL_TWIST,Beginner,,0,0,2,0,1,0,0,1,0,1,0,1,0,2,1,0,1,0,0
+Spinal Twist Stretch,MOVE,SPINAL_TWIST_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/SPINAL_TWIST_STRETCH,Beginner,,0,0,2,0,1,0,0,1,0,1,0,1,0,2,1,0,1,0,0
+Spine Stretch Forward,MOVE,SPINE_STRETCH_FORWARD,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/SPINE_STRETCH_FORWARD,Beginner,,0,0,2,0,1,0,0,1,0,1,0,1,0,2,1,0,1,0,0
+Standing Side Stretch,MOVE,STANDING_SIDE_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/STANDING_SIDE_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Standing Single Leg Forward Bend with IT Band Opener,MOVE,STANDING_SINGLE_LEG_FORWARD_BEND_WITH_IT_BAND_OPENER,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/STANDING_SINGLE_LEG_FORWARD_BEND_WITH_IT_BAND_OPENER,Intermediate,"This pose targets the IT bands, making it suitable for those who need a stretch in this area such as runners, cyclists and even people with desk jobs.",0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,2,0,0
+Stand and Hang,MOVE,STAND_AND_HANG,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/STAND_AND_HANG,Beginner,,0,0,2,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+Tick-Tock (Side Roll),MOVE,TICK_TOCK_SIDE_ROLL,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/TICK_TOCK_SIDE_ROLL,Beginner,,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0
+Twist,MOVE,TWIST,TRUE,,https://connect.garmin.com/modern/exercises/MOVE/TWIST,Beginner,,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+Ankle to Knee Pose,POSE,ANKLE_TO_KNEE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/ANKLE_TO_KNEE,Beginner,"This pose is also referred to as ""Double Pigeon"" and as “Fire Log"" pose, which is the Sanskrit translation. It will help loosen up your hips.",0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0
+Baby Cobra Pose,POSE,BABY_COBRA,TRUE,,https://connect.garmin.com/modern/exercises/POSE/BABY_COBRA,Beginner,"The Baby Cobra pose is mid-point in between the Sphinx and Cobra poses (or as translated, ""Half Cobra""). It increases spinal flexibility and is often used in place of Cobra as a substitute for the Cobra's severe back bending extension.",0,0,1,0,0,2,0,2,0,1,0,0,0,1,0,0,2,0,2
+Bridge Pose,POSE,BRIDGE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/BRIDGE,Beginner,"This beginner backbend is often given as an alternative to Wheel pose in yoga class. This pose strengthens and lengthens the back and abdominals, and in doing so, improves posture and confidence.",0,0,0,0,0,2,2,2,0,1,2,1,0,1,0,1,1,2,1
+Cat Pose,POSE,CAT,TRUE,,https://connect.garmin.com/modern/exercises/POSE/CAT,Beginner,This pose is named for its shape: the look of an angry cat.,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,2,0,0
+Chair Pose,POSE,CHAIR,TRUE,,https://connect.garmin.com/modern/exercises/POSE/CHAIR,Beginner,"Also referred to as ""Fierce or Powerful"" pose(the Sanskrit translation) or ""Awkward"" pose, this pose is most commonly referred to as ""Chair pose"" since it looks like you're sitting down in a chair.",0,0,1,0,2,0,2,0,0,1,1,1,0,1,0,1,1,0,0
+Child’s Pose,POSE,CHILDS,TRUE,,https://connect.garmin.com/modern/exercises/POSE/CHILDS,Beginner,Child's pose is the go-to resting pose for times during any yoga routine when you need a break. It works to calm and relax your body and mind.,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1,0,0
+Cow Pose,POSE,COW,TRUE,,https://connect.garmin.com/modern/exercises/POSE/COW,Beginner,"This pose is named for its shape — when you arch your spine, it looks like a cow's udders",0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,0
+Dolphin Pose,POSE,DOLPHIN,TRUE,,https://connect.garmin.com/modern/exercises/POSE/DOLPHIN,Beginner,"Dolphin pose, also known as Forearm Down Dog, is an alternative to Down Dog for those with wrist sensitivities.",0,0,1,0,0,0,1,1,0,2,2,0,0,1,0,2,1,0,1
+Downward Facing Dog Pose,POSE,DOWNWARD_FACING_DOG,TRUE,,https://connect.garmin.com/modern/exercises/POSE/DOWNWARD_FACING_DOG,Beginner,"Probably the most commonly recognised pose in yoga, Downward-facing Dog stretches or opens most of the body.",0,0,1,0,2,0,1,0,0,1,1,0,0,1,2,2,1,0,1
+Down Dog Split Pose,POSE,DOWN_DOG_SPLIT,TRUE,,https://connect.garmin.com/modern/exercises/POSE/DOWN_DOG_SPLIT,Beginner,This one-legged variation of Down Dog is often used as a transitional pose to move each leg forward in a yoga sequence.,0,0,1,0,2,0,1,0,0,1,1,0,0,1,2,2,1,0,1
+"Down Dog Split Pose, Open Hip Bent Knee",POSE,DOWN_DOG_SPLIT_OPEN_HIP_BENT_KNEE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/DOWN_DOG_SPLIT_OPEN_HIP_BENT_KNEE,Beginner,,0,0,1,0,2,0,1,0,0,1,1,1,0,1,2,2,1,0,1
+Downward Facing Dog to Cobra,POSE,DOWNWARD_FACING_DOG_TO_COBRA,TRUE,,https://connect.garmin.com/modern/exercises/POSE/DOWNWARD_FACING_DOG_TO_COBRA,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Extended Puppy Pose,POSE,EXTENDED_PUPPY,TRUE,,https://connect.garmin.com/modern/exercises/POSE/EXTENDED_PUPPY,Beginner,"While this pose may look like child's pose, it's actually a kneeling variation of downward dog. Puppy pose is thought to reduce stress and calm the mind.",0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,1,1,0
+Extended Side Angle Pose,POSE,EXTENDED_SIDE_ANGLE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/EXTENDED_SIDE_ANGLE,Beginner,"The Sanskrit name of this pose translates to ""Extended Side Angle"" pose. This posture is a full-body opener, providing the leg-strengthening benefits of warrior II, while opening and lengthening the torso.",0,2,2,0,1,0,0,2,0,0,1,1,0,2,1,1,1,0,0
+Gate Pose,POSE,GATE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/GATE,Beginner,This pose stretches the side of the torso which may create space for the lungs to take deeper breaths.,0,0,2,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+Head to Knee Pose,POSE,HEAD_TO_KNEE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/HEAD_TO_KNEE,Beginner,Janu means “knee” and sirsa means “head.” You'll get further with the grounding posture by relaxing and not forcing yourself to move too deep into the position. Your slow breath will help increase your range of motion.,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,2,0,0
+High Lunge Pose,POSE,HIGH_LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/HIGH_LUNGE,Beginner,"Part of a traditional, basic Sun salutation, the high lunge has no Sanskrit name, but the pose is incorporated into almost every style of yoga.",0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Lizard Pose,POSE,LIZARD,TRUE,,https://connect.garmin.com/modern/exercises/POSE/LIZARD,Beginner,This is a versatile hip opener that can be modified in many ways to adapt to most bodies. It prepares the body for deeper hip stretches like the pigeon pose. The posture resembles a lizard—the back leg represents a lizard's tail.,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Low Lunge Pose,POSE,LOW_LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/LOW_LUNGE,Beginner,"Low lunge, also known as ""Equestrian"" pose, is a commonly used posture in routines, and is also a part of a basic sun salutation.",0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Low Lunge Twist Pose,POSE,LOW_LUNGE_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/POSE/LOW_LUNGE_TWIST,Beginner,"Low Lunge Twist is a variation of several poses, but the varying schools of yoga disagree on the exact pose. This posture improves spinal flexibility, and is thought to help stimulate digestion.",0,0,2,0,1,0,0,1,0,1,2,0,0,0,2,1,0,0,0
+Low Lunge with Knee Down Pose,POSE,LOW_LUNGE_WITH_KNEE_DOWN,TRUE,,https://connect.garmin.com/modern/exercises/POSE/LOW_LUNGE_WITH_KNEE_DOWN,Beginner,"The derivation of the Sanskrit name of this pose comes  from Anjani, the mother of the Monkey God, Hanuman. It is said that she was praying in this pose with her arms raised, asking to have a child when she was divinely blessed and became pregnant. This pose is also sometimes referred to as ""Crescent Lunge"", due to its shape.",0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+One-Legged Downward-Facing Dog Pose Open Hip Bent Knee,POSE,ONE_LEGGED_DOWNWARD_FACING_POSE_OPEN_HIP_BENT_KNEE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/ONE_LEGGED_DOWNWARD_FACING_POSE_OPEN_HIP_BENT_KNEE,Beginner,"This open hip variation of the One-Legged Downward-facing Dog Pose is often used as a transition to bring a leg forward to an open hip pose, or to shift into a standing or seated pose.",0,0,1,0,2,0,1,0,0,1,1,1,0,1,2,2,1,0,1
+Reclined Hand to Foot Pose,POSE,RECLINED_HAND_TO_FOOT,TRUE,,https://connect.garmin.com/modern/exercises/POSE/RECLINED_HAND_TO_FOOT,Beginner,"While the translation is ""Reclined Hand to Foot Big Toe"" pose, Hand to Foot is how it is usually referred. This pose is a gentle way to open and stretch your legs.",0,0,0,0,0,0,1,0,0,0,1,1,0,2,0,0,0,0,0
+Runner’s Lunge Pose,POSE,RUNNERS_LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/RUNNERS_LUNGE,Beginner,"The Sanskrit translation of this is “Half Split,” although it's more commonly referred to as ""Runner's Lunge,"" as it's a suitable pose for runners. This pose will prep you to perform a full split.",0,2,0,0,2,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+Seated Easy Twist Pose,POSE,SEATED_EASY_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/POSE/SEATED_EASY_TWIST,Beginner,"This seated twist is thought to help detoxify, improve blood flow, and increase hip and spine flexibility.",0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,0,2,0,0
+Seated Long-Leg Forward Bend Pose,POSE,SEATED_LONG_LEG_FORWARD_BEND,TRUE,,https://connect.garmin.com/modern/exercises/POSE/SEATED_LONG_LEG_FORWARD_BEND,Beginner,"This pose is the fifth of the 12 Basic Hatha Yoga Postures. The Sanskrit translation is ""Intense Stretch of the West"" (west means your back). This grounding pose not only opens your back, but your hamstrings as well.",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Seated Wide-Leg Forward Bend Pose,POSE,SEATED_WIDE_LEG_FORWARD_BEND,TRUE,,https://connect.garmin.com/modern/exercises/POSE/SEATED_WIDE_LEG_FORWARD_BEND,Beginner,"The name translates to ""Seated Angle"" pose. It's a gentle opener of many joints and can be incredibly grounding if your forehead is touching the ground or a block.",0,1,2,0,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0
+Squat Open Arm Twist Pose,POSE,SQUAT_OPEN_ARM_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/POSE/SQUAT_OPEN_ARM_TWIST,Beginner,"In addition to all the muscle strengthening benefits of the classic squat position, this variation adds a shoulder opening and energizing component. This pose is recommended for athletes.",0,1,0,0,1,0,2,1,0,1,1,1,0,2,1,1,1,0,0
+Squat Palm Press Pose,POSE,SQUAT_PALM_PRESS,TRUE,,https://connect.garmin.com/modern/exercises/POSE/SQUAT_PALM_PRESS,Beginner,"This pose Is also referred to as the Garland pose or the less eloquent ""Excretion"" or ""Relieving"" pose. This pose is thought to aid digestion.",0,1,0,0,1,0,2,0,0,1,1,1,0,2,0,1,0,0,0
+Standing Forward Bend Pose,POSE,STANDING_FORWARD_BEND,TRUE,,https://connect.garmin.com/modern/exercises/POSE/STANDING_FORWARD_BEND,Beginner,"This is the 11th of the 12 Basic Hatha Yoga Poses. In this standing forward bend, your spine lengthens and your head drops below your heart, increasing blood flow to your brain. This pose is said to help many things: from stress to depression to sinusitis.",0,0,2,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+"Standing Forward Bend, Halfway Up Pose",POSE,STANDING_FORWARD_BEND_HALFWAY_UP,TRUE,,https://connect.garmin.com/modern/exercises/POSE/STANDING_FORWARD_BEND_HALFWAY_UP,Beginner,"This half-forward bend opens the torso and is thought to alleviate stomach pains. This pose is most commonly seen in a  traditional ""advanced"" sun salutation.",0,0,2,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+Standing Side Opener Pose,POSE,STANDING_SIDE_OPENER,TRUE,,https://connect.garmin.com/modern/exercises/POSE/STANDING_SIDE_OPENER,Beginner,"This pose goes by different names in each style of yoga. Kati means “hip,” and chakrasana means ”wheel,” so this standing side opener can also be thought of as a hip bend.",0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Standing Single Leg Forward Bend Pose,POSE,STANDING_SINGLE_LEG_FORWARD_BEND,TRUE,,https://connect.garmin.com/modern/exercises/POSE/STANDING_SINGLE_LEG_FORWARD_BEND,Beginner,"This pose translates to ""Intense Side Stretch"" and is also referred to as Pyramid pose.  It is, as the name suggests, an intense stretch, especially for the hamstrings, and is also said to calm the mind.",0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,2,0,0
+Standing Wide-Leg Forward Bend Pose,POSE,STANDING_WIDE_LEG_FORWARD_BEND,TRUE,,https://connect.garmin.com/modern/exercises/POSE/STANDING_WIDE_LEG_FORWARD_BEND,Beginner,This pose translates to “Wide Intense Foot Stretch.” So don't be fooled by the easy position—it's a move that is meant to challenge you.,0,1,2,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0
+Standing Wide-Leg Forward Bend with Twist Pose,POSE,STANDING_WIDE_LEG_FORWARD_BEND_WITH_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/POSE/STANDING_WIDE_LEG_FORWARD_BEND_WITH_TWIST,Beginner,This twist is thought to stimulate digestion while lengthening your spine and hamstrings.,0,1,2,0,0,0,0,1,0,0,1,1,0,2,1,2,1,0,0
+Supine Spinal Twist Pose,POSE,SUPINE_SPINAL_TWIST,TRUE,,https://connect.garmin.com/modern/exercises/POSE/SUPINE_SPINAL_TWIST,Beginner,"This gentle twist performed while lying on the back is a counter pose to backbends. As with all twists, this pose is alleged to detoxify the body.",0,0,2,0,1,0,0,1,0,1,0,1,0,2,1,0,1,0,0
+Table Top Pose,POSE,TABLE_TOP,TRUE,,https://connect.garmin.com/modern/exercises/POSE/TABLE_TOP,Beginner,Table Top is often offered as an easier beginner modification of Upward Facing Plank.,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1
+Thread the Needle Pose,POSE,THREAD_THE_NEEDLE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/THREAD_THE_NEEDLE,Beginner,"This calming pose is great for opening your shoulders, chest, and neck. The gentle twist is thought to stimulate digestion.",0,0,0,0,0,0,0,0,0,2,2,0,0,2,2,2,1,1,0
+Thunderbolt Pose,POSE,THUNDERBOLT,TRUE,,https://connect.garmin.com/modern/exercises/POSE/THUNDERBOLT,Beginner,"Thunderbolt pose, which can also be translated as “Diamond pose,” is a great alternative to Easy Seat for meditating, breathing, and feeling grounded.",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0
+Thunderbolt Pose Both Sides Arm Stretch,POSE,THUNDERBOLT_POSE_BOTH_SIDES_ARM_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/POSE/THUNDERBOLT_POSE_BOTH_SIDES_ARM_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,1,0,0
+Triangle Pose,POSE,TRIANGLE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/TRIANGLE,Beginner,This is the 12th of the 12 basic Hatha yoga postures. Triangle pose (which is a direct Sanskrit translation) is said to relieve stress and anxiety while improving balance.,0,2,2,0,2,0,0,0,0,1,2,0,0,2,1,1,1,0,0
+Wheel Pose,POSE,WHEEL,TRUE,,https://connect.garmin.com/modern/exercises/POSE/WHEEL,Advanced,"More commonly referred to as Wheel, the Sanskrit translates to ""Upward-facing Bow.""  This full body pose is said to stimulate all seven chakras, thereby helping to keep your whole self in harmony.",0,0,0,0,0,2,2,2,0,1,2,1,0,1,0,1,1,2,1
+Wide Side Lunge Pose,POSE,WIDE_SIDE_LUNGE,TRUE,,https://connect.garmin.com/modern/exercises/POSE/WIDE_SIDE_LUNGE,Beginner,"Scandasana is a warrior pose named after the Hindu God, Skandasana. In this variation, you lift your arms off the ground and stretch them as far as you can. This can create a very powerful feeling of expanse.",0,1,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Back Squats,SQUAT,BACK_SQUATS,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Balancing Squat,SQUAT,BALANCING_SQUAT,FALSE,,,,,0,0,0,0,2,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Goblet Squat,SQUAT,GOBLET_SQUAT,TRUE,,https://connect.garmin.com/modern/exercises/SQUAT/GOBLET_SQUAT,Beginner,"The goblet squat is a lower-body exercise that increases strength throughout the legs. Due to the position of the weight, the exercise also strengthens the shoulders and core while improving posture and hip mobility.",0,0,2,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Kettlebell Squat,SQUAT,KETTLEBELL_SQUAT,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Plié Squat,SQUAT,PLIE_SQUAT,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0
+Prisoner Squat,SQUAT,PRISONER_SQUAT,TRUE,,https://connect.garmin.com/modern/exercises/SQUAT/PRISONER_SQUAT,Beginner,"The prisoner squat is a lower-body exercise with an emphasis on the quads, hamstrings, and glutes. The exercise also improves upper body mobility. By pulling your elbows back, the exercise helps improve upper back mobility and assists with correct posture.",0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Squat,SQUAT,SQUAT,TRUE,,https://connect.garmin.com/modern/exercises/SQUAT/SQUAT,Beginner,"The squat is a lower-body strength exercise that targets the quads, hamstrings and glutes. The exercise also improves posture and increases flexibility and hip mobility.",0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Squats with Band,SQUAT,SQUATS_WITH_BAND,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Thrusters,SQUAT,THRUSTERS,FALSE,,,,,0,0,2,0,0,0,2,2,2,1,2,2,0,2,0,1,1,2,2
+Uneven Squat,SQUAT,UNEVEN_SQUAT,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Waist-slimming Squat,SQUAT,WAIST_SLIMMING_SQUAT,FALSE,,,,,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+Wall Ball,SQUAT,WALL_BALL,FALSE,,,,,0,0,2,0,0,0,0,2,0,1,2,0,0,0,0,1,1,2,2
+Wall Ball Squat and Press,SQUAT,WALL_BALL_SQUAT_AND_PRESS,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,1,0,2
+Suspension Glute Bridge,SUSPENSION,GLUTE_BRIDGE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Suspension Hip Drop,SUSPENSION,HIP_DROP,FALSE,,,,,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Suspension Lunge,SUSPENSION,LUNGE,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Suspension Mountain Climber,SUSPENSION,MOUNTAIN_CLIMBER,FALSE,,,,,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2
+Suspension Squat,SUSPENSION,SQUAT,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0
+Ankle Circles,WARM_UP,ANKLE_CIRCLES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankle Dorsiflexion with Band,WARM_UP,ANKLE_DORSIFLEXION_WITH_BAND,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankle Internal Rotation,WARM_UP,ANKLE_INTERNAL_ROTATION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arm Circles,WARM_UP,ARM_CIRCLES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bent-over Reach to Sky,WARM_UP,BENT_OVER_REACH_TO_SKY,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biceps Stretch,WARM_UP,BICEPS_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/BICEPS_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cat Camel,WARM_UP,CAT_CAMEL,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elbow-to-Foot Lunge,WARM_UP,ELBOW_TO_FOOT_LUNGE,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forward and Backward Leg Swings,WARM_UP,FORWARD_AND_BACKWARD_LEG_SWINGS,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glutes Stretch,WARM_UP,GLUTES_STRETCH,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Groiners,WARM_UP,GROINERS,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inverted Hamstring Stretch,WARM_UP,INVERTED_HAMSTRING_STRETCH,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lateral Duck Under,WARM_UP,LATERAL_DUCK_UNDER,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neck Rotations,WARM_UP,NECK_ROTATIONS,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/NECK_ROTATIONS,Beginner,Neck rotations are a prehabilitation exercise that warm up the neck and upper shoulders.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neck Tilts,WARM_UP,NECK_TILTS,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opposite Arm and Leg Balance,WARM_UP,OPPOSITE_ARM_AND_LEG_BALANCE,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/OPPOSITE_ARM_AND_LEG_BALANCE,Intermediate,"The opposite arm and leg balance increases strength and stability in the glutes, hamstrings, core, and shoulder. This exercise also improves coordination.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quadruped Rocking,WARM_UP,QUADRUPED_ROCKING,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Reach, Roll, and Lift",WARM_UP,REACH_ROLL_AND_LIFT,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shoulder Circles,WARM_UP,SHOULDER_CIRCLES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Side-to-Side Leg Swings,WARM_UP,SIDE_TO_SIDE_LEG_SWINGS,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sleeper Stretch,WARM_UP,SLEEPER_STRETCH,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slide Out,WARM_UP,SLIDE_OUT,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Standing Hamstring Stretch,WARM_UP,STANDING_HAMSTRING_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/STANDING_HAMSTRING_STRETCH,Beginner,This stretch increases flexibility and mobility throughout the hamstring and hip regions.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90/90 Stretch,WARM_UP,STRETCH_90_90,FALSE,,,,,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Abs Stretch,WARM_UP,STRETCH_ABS,FALSE,,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Butterfly Stretch,WARM_UP,STRETCH_BUTTERFLY,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+Calf Stretch,WARM_UP,STRETCH_CALF,FALSE,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cat Cow Stretch,WARM_UP,STRETCH_CAT_COW,FALSE,,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Child's Pose Stretch,WARM_UP,STRETCH_CHILDS_POSE,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,1,0,2,0
+Cobra Stretch,WARM_UP,STRETCH_COBRA,FALSE,,,,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Forearm Stretch,WARM_UP,STRETCH_FOREARMS,FALSE,,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Forward Glutes Stretch,WARM_UP,STRETCH_FORWARD_GLUTES,FALSE,,,,,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Front Split Stretch,WARM_UP,STRETCH_FRONT_SPLIT,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+Hamstring Stretch,WARM_UP,STRETCH_HAMSTRING,FALSE,,,,,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,0,0,0,0
+Hip Flexor and Quad Stretch,WARM_UP,STRETCH_HIP_FLEXOR_AND_QUAD,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Lat Stretch,WARM_UP,STRETCH_LAT,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Levator Scapulae Stretch,WARM_UP,STRETCH_LEVATOR_SCAPULAE,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunge with Spinal Twist Stretch,WARM_UP,STRETCH_LUNGE_WITH_SPINAL_TWIST,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0
+Lunging Hip Flexor Stretch,WARM_UP,STRETCH_LUNGING_HIP_FLEXOR,FALSE,,,,,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,2,0,0,0
+Stretch Lying Abduction,WARM_UP,STRETCH_LYING_ABDUCTION,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Lying IT Band Stretch,WARM_UP,STRETCH_LYING_IT_BAND,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0
+Lying Knee-to-Chest Stretch,WARM_UP,STRETCH_LYING_KNEE_TO_CHEST,FALSE,,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0
+Lying Piriformis Stretch,WARM_UP,STRETCH_LYING_PIRIFORMIS,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0
+Lying Spinal Twist Stretch,WARM_UP,STRETCH_LYING_SPINAL_TWIST,FALSE,,,,,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Neck Stretch,WARM_UP,STRETCH_NECK,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Obliques Stretch,WARM_UP,STRETCH_OBLIQUES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Over-under Shoulder Stretch,WARM_UP,STRETCH_OVER_UNDER_SHOULDER,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Pectoral Stretch,WARM_UP,STRETCH_PECTORAL,FALSE,,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pigeon Pose Stretch,WARM_UP,STRETCH_PIGEON_POSE,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Piriformis Stretch,WARM_UP,STRETCH_PIRIFORMIS,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0
+Quad Stretch,WARM_UP,STRETCH_QUAD,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0
+Scorpion Stretch,WARM_UP,STRETCH_SCORPION,FALSE,,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Shoulder Stretch,WARM_UP,STRETCH_SHOULDER,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+Side Stretch,WARM_UP,STRETCH_SIDE,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0
+Side Lunge Stretch,WARM_UP,STRETCH_SIDE_LUNGE,FALSE,,,,,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Side Split Stretch,WARM_UP,STRETCH_SIDE_SPLIT,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Standing IT Band Stretch,WARM_UP,STRETCH_STANDING_IT_BAND,FALSE,,,,,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0
+Straddle Stretch,WARM_UP,STRETCH_STRADDLE,FALSE,,,,,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Triceps Stretch,WARM_UP,STRETCH_TRICEPS,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Wall Chest and Shoulder Stretch,WARM_UP,STRETCH_WALL_CHEST_AND_SHOULDER,FALSE,,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Swiss Ball Hip Crossover,WARM_UP,SWISS_BALL_HIP_CROSSOVER,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Swiss Ball Reach, Roll, and Lift",WARM_UP,SWISS_BALL_REACH_ROLL_AND_LIFT,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiss Ball Windshield Wipers,WARM_UP,SWISS_BALL_WINDSHIELD_WIPERS,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thoracic Rotation,WARM_UP,THORACIC_ROTATION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walking Leg Cradles,WARM_UP,WALKING_LEG_CRADLES,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walkout,WARM_UP,WALKOUT,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walkout from Push-up Position,WARM_UP,WALKOUT_FROM_PUSH_UP_POSITION,FALSE,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Half-Kneeling Arm Rotation,WARM_UP,HALF_KNEELING_ARM_ROTATION,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/HALF_KNEELING_ARM_ROTATION,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Three-Way Ankle Mobilization,WARM_UP,THREE_WAY_ANKLE_MOBILIZATION,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/THREE_WAY_ANKLE_MOBILIZATION,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90/90 Hip Switch with Reach,WARM_UP,NINETY_NINETY_HIP_SWITCH,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/NINETY_NINETY_HIP_SWITCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Active Frog,WARM_UP,ACTIVE_FROG,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/ACTIVE_FROG,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shoulder Sweeps,WARM_UP,SHOULDER_SWEEPS,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/SHOULDER_SWEEPS,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankle Lunges,WARM_UP,ANKLE_LUNGES,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/ANKLE_LUNGES,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Back Roll on Foam Roller,WARM_UP,BACK_ROLL_FOAM_ROLLER,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/BACK_ROLL_FOAM_ROLLER,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bear Crawl,WARM_UP,BEAR_CRAWL,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/BEAR_CRAWL,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Latissimus Dorsi Foam Roll,WARM_UP,LATISSIMUS_DORSI_FOAM_ROLL,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/LATISSIMUS_DORSI_FOAM_ROLL,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reverse T Hip Opener,WARM_UP,REVERSE_T_HIP_OPENER,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/REVERSE_T_HIP_OPENER,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shoulder Rolls,WARM_UP,SHOULDER_ROLLS,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/SHOULDER_ROLLS,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chest Openers,WARM_UP,CHEST_OPENERS,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/CHEST_OPENERS,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Triceps Stretch,WARM_UP,TRICEPS_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/TRICEPS_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Upper Back Stretch,WARM_UP,UPPER_BACK_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/UPPER_BACK_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hip Circles,WARM_UP,HIP_CIRCLES,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/HIP_CIRCLES,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankle Stretch,WARM_UP,ANKLE_STRETCH,TRUE,,https://connect.garmin.com/modern/exercises/WARM_UP/ANKLE_STRETCH,Beginner,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
